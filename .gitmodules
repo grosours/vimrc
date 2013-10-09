@@ -1,0 +1,18 @@
+[submodule "fugitive"]
+	path = bundle/vim-fufitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "surround"]
+	path = bundle/surround
+	url = git://github.com/tpope/vim-surround.git
+[submodule "nerd-tree"]
+	path = bundle/nerd-tree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "seoul256"]
+	path = bundle/seoul256
+	url = https://github.com/junegunn/seoul256.vim.git
+[submodule "javascript-syntax"]
+	path = bundle/vim-javascript-syntax
+	url = https://github.com/jelera/vim-javascript-syntax.git
+[submodule "vim-less"]
+	path = bundle/vim-LESS
+	url = https://github.com/groenewege/vim-less
