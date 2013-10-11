@@ -16,3 +16,9 @@
 [submodule "vim-less"]
 	path = bundle/vim-LESS
 	url = https://github.com/groenewege/vim-less
+[submodule "ctrlp"]
+	path = bundle/ctrlp
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "vim-multiple-cursors"]
+	path = bundle/vim-multiple-cursor
+	url = https://github.com/terryma/vim-multiple-cursors.git
