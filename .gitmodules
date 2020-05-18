@@ -1,90 +1,90 @@
 [submodule "surround"]
-	path = bundle/surround
+	path = pack/main/start/surround
 	url = git://github.com/tpope/vim-surround.git
 [submodule "nerd-tree"]
-	path = bundle/nerd-tree
+	path = pack/main/start/nerd-tree
 	url = https://github.com/scrooloose/nerdtree.git
 [submodule "seoul256"]
-	path = bundle/seoul256
+	path = pack/main/start/seoul256
 	url = https://github.com/junegunn/seoul256.vim.git
 [submodule "javascript-syntax"]
-	path = bundle/vim-javascript-syntax
+	path = pack/main/start/vim-javascript-syntax
 	url = https://github.com/jelera/vim-javascript-syntax.git
 [submodule "vim-less"]
-	path = bundle/vim-LESS
+	path = pack/main/start/vim-LESS
 	url = https://github.com/groenewege/vim-less
 [submodule "vim-multiple-cursors"]
-	path = bundle/vim-multiple-cursor
+	path = pack/main/start/vim-multiple-cursor
 	url = https://github.com/terryma/vim-multiple-cursors.git
 [submodule "vim-airline"]
 	path = bundle/vim-airline
 	url = https://github.com/bling/vim-airline
 [submodule "bundle/Align"]
-	path = bundle/Align
+	path = pack/main/start/Align
 	url = https://github.com/vim-scripts/Align
 [submodule "bundle/ale"]
-	path = bundle/ale
+	path = pack/main/start/ale
 	url = https://github.com/w0rp/ale.git
 [submodule "bundle/vim-projectionist"]
-	path = bundle/vim-projectionist
+	path = pack/main/start/vim-projectionist
 	url = https://github.com/tpope/vim-projectionist.git
 [submodule "bundle/fzf.vim"]
-	path = bundle/fzf.vim
+	path = pack/main/start/fzf.vim
 	url = https://github.com/junegunn/fzf.vim.git
 [submodule "bundle/gruvbox"]
-	path = bundle/gruvbox
+	path = pack/main/start/gruvbox
 	url = https://github.com/morhetz/gruvbox.git
 [submodule "bundle/vdebug"]
-	path = bundle/vdebug
+	path = pack/main/start/vdebug
 	url = https://github.com/vim-vdebug/vdebug.git
 [submodule "bundle/vim-elixir"]
-	path = bundle/vim-elixir
+	path = pack/main/start/vim-elixir
 	url = https://github.com/elixir-lang/vim-elixir.git
 [submodule "bundle/nim.nvim"]
-	path = bundle/nim.nvim
+	path = pack/main/start/nim.nvim
 	url = https://github.com/alaviss/nim.nvim.git
 [submodule "bundle/editorconfig-vim"]
-	path = bundle/editorconfig-vim
+	path = pack/main/start/editorconfig-vim
 	url = https://github.com/editorconfig/editorconfig-vim.git
 [submodule "bundle/coc.nvim"]
-	path = bundle/coc.nvim
+	path = pack/main/start/coc.nvim
 	url = https://github.com/neoclide/coc.nvim
 [submodule "bundle/emmet-vim"]
-	path = bundle/emmet-vim
+	path = pack/main/start/emmet-vim
 	url = https://github.com/mattn/emmet-vim.git
 [submodule "bundle/paredit"]
-	path = bundle/paredit
+	path = pack/main/start/paredit
 	url = https://github.com/kovisoft/paredit.git
 [submodule "bundle/swift.vim"]
-	path = bundle/swift.vim
+	path = pack/main/start/swift.vim
 	url = https://github.com/keith/swift.vim.git
 [submodule "bundle/tabular"]
-	path = bundle/tabular
+	path = pack/main/start/tabular
 	url = https://github.com/godlygeek/tabular.git
 [submodule "bundle/vim-airline"]
-	path = bundle/vim-airline
+	path = pack/main/start/vim-airline
 	url = https://github.com/bling/vim-airline
 [submodule "bundle/vim-colors-solarized"]
-	path = bundle/vim-colors-solarized
+	path = pack/main/start/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
 [submodule "bundle/vim-dispatch"]
-	path = bundle/vim-dispatch
+	path = pack/main/start/vim-dispatch
 	url = https://github.com/tpope/vim-dispatch.git
 [submodule "bundle/vim-easymotion"]
-	path = bundle/vim-easymotion
+	path = pack/main/start/vim-easymotion
 	url = https://github.com/easymotion/vim-easymotion
 [submodule "bundle/vim-eightheader"]
-	path = bundle/vim-eightheader
+	path = pack/main/start/vim-eightheader
 	url = https://github.com/bimlas/vim-eightheader.git
 [submodule "bundle/vim-fugitive"]
-	path = bundle/vim-fugitive
+	path = pack/main/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
 [submodule "bundle/vim-graphql"]
-	path = bundle/vim-graphql
+	path = pack/main/start/vim-graphql
 	url = https://github.com/jparise/vim-graphql.git
 [submodule "bundle/vimproc.vim"]
-	path = bundle/vimproc.vim
+	path = pack/main/start/vimproc.vim
 	url = https://github.com/Shougo/vimproc.vim.git
 [submodule "bundle/vlime"]
-	path = bundle/vlime
+	path = pack/main/start/vlime
 	url = https://github.com/vlime/vlime.git

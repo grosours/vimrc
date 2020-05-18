@@ -1,6 +1,3 @@
-call pathogen#infect()
-call pathogen#helptags()
-
 let g:airline_powerline_fonts=0
 
 nnoremap ; :
