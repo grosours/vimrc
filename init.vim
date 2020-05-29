@@ -224,6 +224,18 @@ nnoremap <silent> <space>k  :<C-u>CocPrev<CR>
 " Resume latest coc list
 nnoremap <silent> <space>p  :<C-u>CocListResume<CR>
 
+" Some usefull mappings to not have to run commands all the time
+nnoremap <silent> <leader>g     :<C-u>G<CR>
+nnoremap <silent> <leader>gf    :<C-u>GitFiles<CR>
+nnoremap <silent> <leader>b     :<C-u>Buffers<CR>
+
+augroup Figitive_FZF
+    au!
+    au BufWinEnter * exe "lcd" FugitiveWorkTree()
+augroup END
+
+let g:dispatch_no_tmux_dispatch=1
+
 if has('nvim')
     tnoremap <Esc>          <C-\><C-n>
     tnoremap <C-v><Esc>     <Esc>
