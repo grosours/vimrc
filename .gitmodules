@@ -88,3 +88,9 @@
 [submodule "bundle/vlime"]
 	path = pack/main/start/vlime
 	url = https://github.com/vlime/vlime.git
+[submodule "pack/main/start/gv.vim"]
+	path = pack/main/start/gv.vim
+	url = https://github.com/junegunn/gv.vim.git
+[submodule "gv"]
+	path = pack/main/start/gv.vim
+	url = https://github.com/junegunn/gv.vim.git
