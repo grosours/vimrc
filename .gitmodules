@@ -94,3 +94,6 @@
 [submodule "gv"]
 	path = pack/main/start/gv.vim
 	url = https://github.com/junegunn/gv.vim.git
+[submodule "vim-go"]
+	path = pack/main/start/vim-go
+	url = https://github.com/fatih/vim-go.git
