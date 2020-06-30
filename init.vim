@@ -27,7 +27,6 @@ set hidden
 set updatetime=300
 set list
 set colorcolumn=50,80
-set termguicolors
 
 " Case related stuff. By default the case will be case insensitive
 " but if a uppercase is used in the pattern, the case sensitivity will
@@ -55,7 +54,7 @@ set statusline=[%n]\ %<%.99f\ %h%w%m%r%{SL('CapsLockStatusline')}%y%{SL('fugitiv
 set path+=**
 set wildmenu
 
-colorscheme gruvbox
+colorscheme preto
 
 " Don't use Ex mode, use Q for formatting
 map Q gq
