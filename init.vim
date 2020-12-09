@@ -54,7 +54,8 @@ set statusline=[%n]\ %<%.99f\ %h%w%m%r%{SL('CapsLockStatusline')}%y%{SL('fugitiv
 set path+=**
 set wildmenu
 
-colorscheme preto
+colorscheme solarized
+set background=light
 
 " Don't use Ex mode, use Q for formatting
 map Q gq
