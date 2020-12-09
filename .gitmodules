@@ -100,3 +100,6 @@
 [submodule "preto"]
 	path = pack/main/start/preto
 	url = https://github.com/ewilazarus/preto.git
+[submodule "firenvim"]
+	path = pack/oursement/start/firenvim
+	url = https://github.com/glacambre/firenvim
