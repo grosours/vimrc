@@ -89,7 +89,10 @@ if has("autocmd")
   " Enable soft-wrapping for text files
   autocmd FileType text,markdown,html,xhtml,eruby setlocal wrap linebreak nolist
 
-
+  augroup typescript
+      au BufRead,BufNew     *.ts,*.js
+        \ let b:ale_fixers=['prettier']
+  augroup END
 
   " Put these in an autocmd group, so that we can delete them easily.
   augroup vimrcEx
@@ -247,3 +250,6 @@ endif
 
 set rtp+=/usr/local/opt/fzf
 
+let g:dispatch_compilers = {
+    \ 'tsc': 'tsc' }
+let g:ale_fix_on_save=1
